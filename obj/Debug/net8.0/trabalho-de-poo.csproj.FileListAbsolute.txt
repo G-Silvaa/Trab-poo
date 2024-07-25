@@ -1,0 +1,14 @@
+C:\Users\GGZIN\trabalho-de-poo\bin\Debug\net8.0\trabalho-de-poo.exe
+C:\Users\GGZIN\trabalho-de-poo\bin\Debug\net8.0\trabalho-de-poo.deps.json
+C:\Users\GGZIN\trabalho-de-poo\bin\Debug\net8.0\trabalho-de-poo.runtimeconfig.json
+C:\Users\GGZIN\trabalho-de-poo\bin\Debug\net8.0\trabalho-de-poo.dll
+C:\Users\GGZIN\trabalho-de-poo\bin\Debug\net8.0\trabalho-de-poo.pdb
+C:\Users\GGZIN\trabalho-de-poo\obj\Debug\net8.0\trabalho-de-poo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GGZIN\trabalho-de-poo\obj\Debug\net8.0\trabalho-de-poo.AssemblyInfoInputs.cache
+C:\Users\GGZIN\trabalho-de-poo\obj\Debug\net8.0\trabalho-de-poo.AssemblyInfo.cs
+C:\Users\GGZIN\trabalho-de-poo\obj\Debug\net8.0\trabalho-de-poo.csproj.CoreCompileInputs.cache
+C:\Users\GGZIN\trabalho-de-poo\obj\Debug\net8.0\trabalho-de-poo.dll
+C:\Users\GGZIN\trabalho-de-poo\obj\Debug\net8.0\refint\trabalho-de-poo.dll
+C:\Users\GGZIN\trabalho-de-poo\obj\Debug\net8.0\trabalho-de-poo.pdb
+C:\Users\GGZIN\trabalho-de-poo\obj\Debug\net8.0\trabalho-de-poo.genruntimeconfig.cache
+C:\Users\GGZIN\trabalho-de-poo\obj\Debug\net8.0\ref\trabalho-de-poo.dll

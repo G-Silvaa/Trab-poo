@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "trabalho-de-poo/1.0.0": {
+        "runtime": {
+          "trabalho-de-poo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "trabalho-de-poo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
